@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2035
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DurableFunctions", "DurableFunctions\DurableFunctions.csproj", "{A511414F-227E-45AE-8596-8AE888BB1E95}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A511414F-227E-45AE-8596-8AE888BB1E95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A511414F-227E-45AE-8596-8AE888BB1E95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A511414F-227E-45AE-8596-8AE888BB1E95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A511414F-227E-45AE-8596-8AE888BB1E95}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE97557E-2105-4360-BCE2-AB3D2F296C06}
+	EndGlobalSection
+EndGlobal
